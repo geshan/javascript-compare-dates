@@ -2,6 +2,7 @@
   "name": "javascript-compare-dates",
   "version": "1.0.0",
   "description": "A demo repo for a blog post to compare dates in JavaScript/Node.js natively and with date-fns",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
